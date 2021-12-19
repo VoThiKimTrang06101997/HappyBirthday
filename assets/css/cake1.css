@@ -319,6 +319,14 @@ body {
   }
 }
 
+/* Galaxy S5 */
+@media screen and (min-width: 360px) and (max-width: 640px) {
+  .box {
+    left: 8%;
+    width: 300px;
+  }
+}
+
 /* Iphone 6/7/8/X */
 @media screen and (min-width: 374px) and (max-width: 413px) {
   .box {
